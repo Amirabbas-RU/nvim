@@ -7,3 +7,4 @@
 # refactor: extract keymaps from init.lua
 # refactor: move colorscheme config to theme.lua
 # feat: add telescope live_grep shortcuts
+# fix: bufferline tab order after close
