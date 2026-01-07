@@ -25,3 +25,4 @@
 # docs: add keymap cheatsheet to README
 # chore: update mason registry
 # feat: add telescope live_grep shortcuts
+# refactor: move plugin configs to separate files
