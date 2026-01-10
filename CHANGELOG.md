@@ -29,3 +29,4 @@
 # feat: add telescope live_grep shortcuts
 # fix: auto-format on save for Rust files
 # fix: null-ls diagnostics config for eslint
+# refactor: move plugin configs to separate files
