@@ -5,3 +5,5 @@
 # fix: null-ls diagnostics config for eslint
 # refactor: move colorscheme config to theme.lua
 # refactor: extract keymaps from init.lua
+# refactor: move colorscheme config to theme.lua
+# feat: add telescope live_grep shortcuts
