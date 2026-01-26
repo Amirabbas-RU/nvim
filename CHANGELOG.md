@@ -13,3 +13,5 @@
 # refactor: extract keymaps from init.lua
 # fix: bufferline tab order after close
 # chore: add .luarc.json for sumneko
+# refactor: extract keymaps from init.lua
+# fix: handle missing LSP server gracefully
