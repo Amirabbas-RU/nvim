@@ -4,3 +4,4 @@
 # fix: null-ls diagnostics config for eslint
 # fix: null-ls diagnostics config for eslint
 # refactor: move colorscheme config to theme.lua
+# refactor: extract keymaps from init.lua
