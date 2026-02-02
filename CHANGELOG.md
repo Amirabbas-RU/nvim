@@ -32,3 +32,4 @@
 # refactor: move plugin configs to separate files
 # chore: update lazy.nvim lockfile
 # fix: copilot suggestions timing out
+# feat: add lualine config with theme
