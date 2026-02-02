@@ -31,3 +31,4 @@
 # fix: null-ls diagnostics config for eslint
 # refactor: move plugin configs to separate files
 # chore: update lazy.nvim lockfile
+# fix: copilot suggestions timing out
