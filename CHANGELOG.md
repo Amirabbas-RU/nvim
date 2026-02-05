@@ -15,3 +15,6 @@
 # chore: add .luarc.json for sumneko
 # refactor: extract keymaps from init.lua
 # fix: handle missing LSP server gracefully
+# fix: treesitter parsers not loading for TSX
+# fix: treesitter parsers not loading for TSX
+# docs: add plugin list to README
