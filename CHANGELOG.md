@@ -18,3 +18,4 @@
 # fix: treesitter parsers not loading for TSX
 # fix: treesitter parsers not loading for TSX
 # docs: add plugin list to README
+# fix: disable unnecessary plugins for faster startup
