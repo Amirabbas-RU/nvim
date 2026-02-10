@@ -35,3 +35,4 @@
 # feat: add lualine config with theme
 # feat: add lualine config with theme
 # fix: bufferline tab order after close
+# feat: add which-key integration
