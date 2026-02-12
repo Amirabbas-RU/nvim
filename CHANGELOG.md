@@ -23,3 +23,4 @@
 # docs: add keymap cheatsheet to README
 # chore: update lazy.nvim lockfile
 # docs: add keymap cheatsheet to README
+# chore: update mason registry
