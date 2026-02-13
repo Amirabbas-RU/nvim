@@ -20,3 +20,4 @@
 # docs: add plugin list to README
 # fix: disable unnecessary plugins for faster startup
 # fix: treesitter parsers not loading for TSX
+# docs: add keymap cheatsheet to README
