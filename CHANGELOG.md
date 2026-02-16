@@ -8,3 +8,5 @@
 # refactor: move colorscheme config to theme.lua
 # feat: add telescope live_grep shortcuts
 # fix: bufferline tab order after close
+# feat: add cmp-nvim-lsp source
+# fix: copilot suggestions timing out
