@@ -11,3 +11,4 @@
 # feat: add cmp-nvim-lsp source
 # fix: copilot suggestions timing out
 # refactor: extract keymaps from init.lua
+# fix: bufferline tab order after close
