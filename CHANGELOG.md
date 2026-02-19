@@ -33,3 +33,4 @@
 # chore: update lazy.nvim lockfile
 # fix: copilot suggestions timing out
 # feat: add lualine config with theme
+# feat: add lualine config with theme
