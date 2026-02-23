@@ -21,3 +21,4 @@
 # fix: disable unnecessary plugins for faster startup
 # fix: treesitter parsers not loading for TSX
 # docs: add keymap cheatsheet to README
+# chore: update lazy.nvim lockfile
