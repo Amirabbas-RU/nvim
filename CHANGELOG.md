@@ -27,3 +27,4 @@
 # feat: add telescope live_grep shortcuts
 # refactor: move plugin configs to separate files
 # feat: add telescope live_grep shortcuts
+# fix: auto-format on save for Rust files
